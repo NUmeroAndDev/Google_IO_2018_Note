@@ -67,4 +67,4 @@ class MyAdapter(): ListAdapter<User, UserViewHolder>(DIFF_CALLBACK) {
 
 `myAdapter.submitList(list)`
 
-`AsyncListDiffer`
+`AsyncListDiffer` というのも追加されている
