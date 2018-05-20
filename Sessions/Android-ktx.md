@@ -13,13 +13,13 @@ Comming Soon
 
 ### KEEP-110(Kotlin Evolution and Enhancement Process)
 
-`@ExtensionFunction`
+`@ExtensionFunction`  
 Java で Kotlin Extension する
 
-`@KtName("hoge")`
+`@KtName("hoge")`  
 Kotlin 上で引数に名前をつける  
 
-`@DefaultValue("hoge")`
+`@DefaultValue("hoge")`  
 Java で Kotlin のデフォルト引数を実現
 
 [関連](https://github.com/Kotlin/KEEP/issues/110)
